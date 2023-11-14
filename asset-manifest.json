@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crashmovies.github.io/static/css/main.d3419137.css",
+    "main.js": "/crashmovies.github.io/static/js/main.ddbee120.js",
+    "static/js/787.aa5bfd03.chunk.js": "/crashmovies.github.io/static/js/787.aa5bfd03.chunk.js",
+    "index.html": "/crashmovies.github.io/index.html",
+    "static/media/search.svg": "/crashmovies.github.io/static/media/search.8ff5426bc87a3f731164f42e41b7144b.svg",
+    "static/media/fav.svg": "/crashmovies.github.io/static/media/fav.09a4d964979e2cf6c7e6523ceeb536ac.svg",
+    "static/media/trailer.svg": "/crashmovies.github.io/static/media/trailer.34d20d981db79073d3ba670f3235221a.svg",
+    "static/media/about.svg": "/crashmovies.github.io/static/media/about.f9650bd345cb03574a505fa4093c6ed5.svg",
+    "static/media/play.svg": "/crashmovies.github.io/static/media/play.9f7b733ae539e9980a42a768abfdfb73.svg",
+    "main.d3419137.css.map": "/crashmovies.github.io/static/css/main.d3419137.css.map",
+    "main.ddbee120.js.map": "/crashmovies.github.io/static/js/main.ddbee120.js.map",
+    "787.aa5bfd03.chunk.js.map": "/crashmovies.github.io/static/js/787.aa5bfd03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3419137.css",
+    "static/js/main.ddbee120.js"
+  ]
+}
