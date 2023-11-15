@@ -8,7 +8,7 @@ import trailerIcon from "./trailer.svg"
 import favIcon from "./fav.svg"
 
 
-const API_URL = " http://www.omdbapi.com/?i=tt3896198&apikey=46bc7d4f";
+const API_URL = " http://www.omdbapi.com?apikey=46bc7d4f";
 var Tv = 'https://teraboxapp.com/s/';
 var Tr = 'https://www.youtube.com/watch?v='
 
