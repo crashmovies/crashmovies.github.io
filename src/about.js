@@ -1,10 +1,11 @@
 import React from "react";
 
-const li = 'https://www.youtube.com/watch?v=fhr3MzT6exg';
+const li = 'https://youtu.be/PvURpUosmCY';
+const tli = 'https://t.me/c/1932858291/2';
 
 const Appp = () => {
-  const openLink = () => {
-    window.open(li, '_blank', 'noopener noreferrer');
+  const openLink = (link) => {
+    window.open(link, '_blank', 'noopener noreferrer');
   };
 
   return (
@@ -21,16 +22,32 @@ const Appp = () => {
             padding: '0',
             textDecoration: 'underline',
           }}
-          onClick={openLink}
+          onClick={() => openLink(li)}
         >
           Click here to see how to watch movies
         </button>
       </div>
+
+      <div>
+        <button
+          style={{
+            color: '#f9d3b4',
+            bottom: '5px',
+            left: '30px',
+            cursor: 'pointer',
+            border: 'none',
+            background: 'none',
+            padding: '0',
+            textDecoration: 'underline',
+          }}
+          onClick={() => openLink(tli)}
+        >
+          Click here to see available movies
+        </button>
+      </div>
+
       <p style={{ color: '#f9d3b4', bottom: '5px', left: '30px' }}>
-        advertise-- @5$ per month
-      </p>
-      <p style={{ color: '#f9d3b4', bottom: '5px', left: '30px' }}>
-        contact email--crashofficial96@gmail.com
+       -----advertise-- @1$ per month--------------contact email--crashofficial96@gmail.com------
       </p>
     </div>
   );

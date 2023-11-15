@@ -113,7 +113,41 @@ const App = () => {
      selectedMovieTitle === "Basic Instinct 2" ? "1VC2MugMkJeP0EKOuXZ56lg":
      selectedMovieTitle === "Mission: Impossible - Ghost Protocol" ? "1ti8oJ3HaPPttnwccTgHJog":
      selectedMovieTitle === "Mission: Impossible - Rogue Nation" ? "1CqATS6VjeYErfuZW91P5Pg":
-     selectedMovieTitle === "Mission: Impossible - Fallout" ? "1kUgndKmlD4XAohEau-7wnA":undefined);
+     selectedMovieTitle === "Mission: Impossible - Fallout" ? "1kUgndKmlD4XAohEau-7wnA":
+     selectedMovieTitle === "Kaala Paani" ? "1bs4Qyg6t2PVMK2zsg9iIZg":
+     selectedMovieTitle === "The Monkey King" ? "1JUqS92X_EPu3hqzentQKRg":
+     selectedMovieTitle === "Insidious" ? "1vGhdb6pdZg4x5x2Oia6WDQ":
+     selectedMovieTitle === "Insidious: Chapter 2" ? "1OHwko42gi8TGkzsRKLNyQw":
+     selectedMovieTitle === "Insidious: Chapter 3" ? "1YmOdDPcOUOuYGj3Z7IS3BQ":
+     selectedMovieTitle === "Aakhri Sach" ? "1GegWNIsJ-C-AIK4rgmvbUQ":
+     selectedMovieTitle === "Pathaan" ? "1viGU8z_3ZPkV05TXh71ebg":
+     selectedMovieTitle === "Tiger 3" ? "1cJs45_M9XxqIoaL24NvTTg":
+     selectedMovieTitle === "Jawan" ? "16HwOUiZE19sEKPF1JHbznQ":
+     selectedMovieTitle === "Jailer" ? "1bVTyu8plKM0PxrovL38ZQQ":
+     selectedMovieTitle === "Dream Girl 2" ? "1usjPlY05XSscwy9E8e8fVQ":
+     selectedMovieTitle === "Gadar 2" ? "1PjqzvqEKzb5v5CpfGTj0_w":
+     selectedMovieTitle === "OMG 2" ? "1ORZQNMTflzEmpKQnpZ4IcA":
+     selectedMovieTitle === "Chor Nikal Ke Bhaga" ? "1QkZcjmaKsEktOiZ4c7h4ow":
+     selectedMovieTitle === "Uncharted" ? "1zZSndhckTvwteyW3e8vi1A":
+     selectedMovieTitle === "Moon Knight" ? "1GlD3U7YqqkTylxuC_e6UNg":
+     selectedMovieTitle === "RRR" ? "1KFqtZHYQjGKsVkihjSLbNg":
+     selectedMovieTitle === "Darlings" ? "1wv0TuORSQGDHdBhF0miqWg":
+     selectedMovieTitle === "Satyaprem Ki Katha" ? "1GwHjOetzZkF358i-apz9eg":
+     selectedMovieTitle === "Sita Ramam" ? "1ghcEy4yrpapdOGhCkm_jyA":
+     selectedMovieTitle === "Farzi" ? "1BO3tyR596mn989h-IhuC6Q":
+     selectedMovieTitle === "Drishyam 2" ? "11qtmVMrl-fgF_HUnbhUNMA":
+     selectedMovieTitle === "Obsession" ? "1YRGtVUPu2zVX2x3bzFCEEQ":
+     selectedMovieTitle === "Titanic" ? "1KUmik42UYeyoCPQe5LZFpw":
+     selectedMovieTitle === "Friends with Benefits" ? "14nG9msbihMMthRvCIVzxQQ":
+     selectedMovieTitle === "Cobweb" ? "12DNKZzN71qqiqGk-syEEew":
+     selectedMovieTitle === "The Nun II" ? "1wQFvsBGQjJI-fuu7DD5M4A":
+     selectedMovieTitle === "The Nun" ? "1nRgLzawWUX05hIaxE3mhag":
+     selectedMovieTitle === "Stranger Things" ? "1c2iT3TW4ghUKcX6UdzpIHQ":
+     selectedMovieTitle === "" ? "":
+     selectedMovieTitle === "" ? "":
+     selectedMovieTitle === "" ? "":
+     selectedMovieTitle === "" ? "":undefined);
+     
 
          
 }, [selectedMovieTitle]);
@@ -219,7 +253,42 @@ useEffect(() => {
    selectedtrailertitle === "Jurassic World" ? "RFinNxS5KN4":
    selectedtrailertitle === "Jurassic World Dominion" ? "fb5ELWi-ekk":
    selectedtrailertitle === "Basic Instinct" ? "EhRhuJOJkGg":
-   selectedtrailertitle === "Basic Instinct 2" ? "CsK82mWFLZM":undefined);
+   selectedtrailertitle === "Basic Instinct 2" ? "CsK82mWFLZM":
+   selectedtrailertitle === "Kaala Paani" ? "":
+   selectedtrailertitle === "The Monkey King" ? "":
+   selectedtrailertitle === "Insidious" ? "":
+   selectedtrailertitle === "Insidious: Chapter 2" ? "":
+   selectedtrailertitle === "Insidious: Chapter 3" ? "":
+   selectedtrailertitle === "Aakhri Sach" ? "":
+   selectedtrailertitle === "Pathaan" ? "":
+   selectedtrailertitle === "Tiger 3" ? "":
+   selectedtrailertitle === "Jawan" ? "":
+   selectedtrailertitle === "Jailer" ? "":
+   selectedtrailertitle === "Dream Girl 2" ? "":
+   selectedtrailertitle === "Gadar 2" ? "":
+   selectedtrailertitle === "OMG 2" ? "":
+   selectedtrailertitle === "Chor Nikal Ke Bhaga" ? "":
+   selectedtrailertitle === "Uncharted" ? "":
+   selectedtrailertitle === "Darlings" ? "":
+   selectedtrailertitle === "Sita Ramam" ? "":
+   selectedtrailertitle === "Farzi" ? "":
+   selectedtrailertitle === "Satyaprem Ki Katha" ? "":
+   selectedtrailertitle === "Drishyam 2" ? "":
+   selectedtrailertitle === "Obsession" ? "":
+   selectedtrailertitle === "Titanic" ? "":
+   selectedtrailertitle === "Friends with Benefits" ? "":
+   selectedtrailertitle === "Cobweb" ? "":
+   selectedtrailertitle === "The Nun II" ? "":
+   selectedtrailertitle === "The Nun" ? "":
+   selectedtrailertitle === "Stranger Things" ? "":
+   selectedtrailertitle === "" ? "":
+   selectedtrailertitle === "" ? "":
+   selectedtrailertitle === "" ? "":
+   selectedtrailertitle === "" ? "":
+   selectedtrailertitle === "" ? "":
+   selectedtrailertitle === "" ? "":
+   selectedtrailertitle === "" ? "":undefined);
+   
        
 }, [selectedtrailertitle]);
   
