@@ -1,7 +1,7 @@
 import React from "react";
 
 const li = 'https://youtu.be/PvURpUosmCY';
-const tli = 'https://t.me/c/1932858291/2';
+const tli = 'https://teraboxapp.com/s/1NfgkiDUshJzW6H9CQsSRoQ';
 
 const Appp = () => {
   const openLink = (link) => {
