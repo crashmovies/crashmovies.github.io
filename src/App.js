@@ -143,7 +143,7 @@ const App = () => {
      selectedMovieTitle === "The Nun II" ? "1wQFvsBGQjJI-fuu7DD5M4A":
      selectedMovieTitle === "The Nun" ? "1nRgLzawWUX05hIaxE3mhag":
      selectedMovieTitle === "Stranger Things" ? "1c2iT3TW4ghUKcX6UdzpIHQ":
-     selectedMovieTitle === "" ? "":
+     selectedMovieTitle === "Loki" ? "1yze2Lp1yzG7rKDbD9Lr9Fg":
      selectedMovieTitle === "" ? "":
      selectedMovieTitle === "" ? "":
      selectedMovieTitle === "" ? "":undefined);
