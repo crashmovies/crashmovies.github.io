@@ -144,6 +144,16 @@ const App = () => {
      selectedMovieTitle === "The Nun" ? "1nRgLzawWUX05hIaxE3mhag":
      selectedMovieTitle === "Stranger Things" ? "1c2iT3TW4ghUKcX6UdzpIHQ":
      selectedMovieTitle === "Loki" ? "1yze2Lp1yzG7rKDbD9Lr9Fg":
+     selectedMovieTitle === "Scam 1992: The Harshad Mehta Story" ? "1XVFYjShVqlIcLRgrkgkhBQ":
+     selectedMovieTitle === "Money Heist" ? "11E-NZeFgw9HFzOt3bYh63Q":
+     selectedMovieTitle === "Mirzapur" ? "1-6seb1SvFYsrElxLpzhQ4w":
+     selectedMovieTitle === "The Family Man" ? "1GkN3y1b-ECIsLGL7Adr5Gg":
+     selectedMovieTitle === "The Girl on the Train" ? "1OJHTx7BpKCIr1Os8ObeiHg":
+     selectedMovieTitle === "Breaking Bad" ? "1v8lu0WmsRP6sCOlHwn_GsQ":
+     selectedMovieTitle === "Vikings" ? "1EBtpdPgg79lyapyoKzbxDA":
+     selectedMovieTitle === "The Witcher" ? "1edLXzZzYGcEju8SafXkS7Q":
+     selectedMovieTitle === "No Country for Old Men" ? "1dK55C1tLPb1zceWut4_W5A":
+     selectedMovieTitle === "500 Days of Summer" ? "1TP-5RTI7hBe7-w26qmiohw":
      selectedMovieTitle === "" ? "":
      selectedMovieTitle === "" ? "":
      selectedMovieTitle === "" ? "":undefined);
@@ -332,7 +342,7 @@ useEffect(() => {
            top:'0',
            right:'0'}}
            onClick={()=>(
-            window.alert("-------Watch Movies & Enjoy---------                                           Download Terabox to watch movies                                               Backup Telegram https://t.me/+77FVDz1OXztjMTVl")
+            window.alert("-------Watch Movies & Enjoy---------                                           Download Terabox to watch movies                                               Backup Telegram https://t.me/+4ubTz-CWyDw3Yjg1")
             )}  
            />
           
@@ -347,7 +357,7 @@ useEffect(() => {
            position:'absolute',
            top:'24px',
            left:'15px',}} 
-           onClick={()=>alert ("------Recomended  movies------              ")}
+           onClick={()=>alert ("------Favourite  movies------              ")}
            ></img>
          
         <div className="app">
