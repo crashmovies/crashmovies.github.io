@@ -330,6 +330,10 @@ useEffect(() => {
       window.open(Tr + eTr, "_blank", "noopener noreferrer");
     }
   }, [eTr]);
+
+  useEffect(()=> {
+    document.title="Crash-free movies"
+  },[]);
    
       return (
 
