@@ -1,6 +1,6 @@
 import React from "react";
 
-const li = 'https://youtu.be/PvURpUosmCY';
+const li = 'https://www.youtube.com/watch?v=rbJMhF5t1fk';
 const tli = 'https://teraboxapp.com/s/1EfgETkVUVzL_QSHxuRmy4w';
 
 const Appp = () => {
